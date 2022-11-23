@@ -7,6 +7,7 @@ def distance(s1: str, s2: str) -> int:
 
     returns: int representing hamming distance between s1 and s2
     """
+    # Invalid input, return -1 indicating incomputable 
     if len(s2) != len(s1):
         return -1
 

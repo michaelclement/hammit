@@ -1,1 +1,1 @@
-from .distance.distance import distance
+from .src.distance import distance

@@ -5,7 +5,7 @@ Have you ever wanted to calculate the hamming distance between two strings? Well
 ## Usage
 
 ```
->>> from hammit import distance
+>>> from hammit.distance import distance
 >>> distance('123','122')
 1 
 ```

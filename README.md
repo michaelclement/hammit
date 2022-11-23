@@ -4,7 +4,8 @@ Have you ever wanted to calculate the hamming distance between two strings? Well
 
 ## Usage
 
-`import hammit.distance.distance as hd`
-`hd.distance('123','125')`
-
-output: **1**
+```
+>>> from hammit import distance
+>>> distance('123','122')
+1 
+```

@@ -1,1 +1,1 @@
-from .src.distance import distance
+from .src.hammit.distance import distance

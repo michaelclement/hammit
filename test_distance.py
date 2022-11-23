@@ -1,5 +1,5 @@
 import unittest
-from src.distance.distance import distance
+from src.hammit.distance import distance
 
 class TestDistance(unittest.TestCase):
     def test_distance(self):
